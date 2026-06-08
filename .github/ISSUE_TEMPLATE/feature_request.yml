@@ -7,6 +7,16 @@ body:
     id: idea
     attributes:
       label: What would you like?
-      description: Describe the feature or change, and what it would let you build.
+      description: Describe the feature or change you have in mind.
+      placeholder: |
+        e.g. A DIN-rail clip on the base so the box can snap onto a rail in a cabinet.
     validations:
       required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What would it let you build? (optional)
+      description: A line on your use case helps me judge how to design it.
+      placeholder: e.g. Mounting a small relay board inside an electrical cabinet.
+    validations:
+      required: false

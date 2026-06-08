@@ -6,14 +6,34 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: What happened?
-      description: What went wrong, and what did you expect instead? Steps to reproduce help a lot.
+      label: What's wrong?
+      description: Describe the problem and what you expected to happen instead.
+      placeholder: |
+        e.g. With press-fit ribs on four sides the lid won't seat — it stops ~2 mm proud.
+        I expected it to push flush like the snap-lock lid does.
     validations:
       required: true
-  - type: input
-    id: setup
+  - type: textarea
+    id: reproduce
     attributes:
-      label: Box settings / printer (optional)
-      description: Size, the features you had on, and your printer/slicer — if relevant.
+      label: Your settings (optional)
+      description: Box size and the features you had switched on, so I can recreate it.
+      placeholder: |
+        Inside 120 x 80 x 35 mm, 3 mm walls.
+        Lid: Press fit, ribs on four sides. Everything else default.
+    validations:
+      required: false
+  - type: dropdown
+    id: part
+    attributes:
+      label: Which part? (optional)
+      description: Roughly where the problem is — helps me jump straight to it.
+      options:
+        - Not sure
+        - Base
+        - Lid
+        - Gasket
+        - Backplate
+        - The fit between parts
     validations:
       required: false

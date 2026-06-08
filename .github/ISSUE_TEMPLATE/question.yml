@@ -7,6 +7,9 @@ body:
     id: question
     attributes:
       label: Your question
-      description: What are you trying to do?
+      description: What are you trying to do, and where are you stuck?
+      placeholder: |
+        e.g. How do I line up a USB-C cutout with my board's port?
+        I set the standoffs but the hole lands too high.
     validations:
       required: true
