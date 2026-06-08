@@ -1,0 +1,19 @@
+name: 🐛 Bug report
+description: Something with Ele-Box isn't working right
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What went wrong, and what did you expect instead? Steps to reproduce help a lot.
+    validations:
+      required: true
+  - type: input
+    id: setup
+    attributes:
+      label: Box settings / printer (optional)
+      description: Size, the features you had on, and your printer/slicer — if relevant.
+    validations:
+      required: false

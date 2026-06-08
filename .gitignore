@@ -1,0 +1,20 @@
+# Private working repo — OpenSCAD source, Customizer presets and test prints
+# live here and stay local. Only LICENSE + README ship in this public repo.
+ele-box-project/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Slicer / OpenSCAD build artifacts (in case any land here)
+*.stl
+*.3mf
+*.amf
+*.step
+*.gcode
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.bak
+*~
+*.swp

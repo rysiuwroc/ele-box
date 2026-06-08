@@ -1,0 +1,2 @@
+# Force people to pick a type so every issue gets labeled + a title prefix.
+blank_issues_enabled: false
