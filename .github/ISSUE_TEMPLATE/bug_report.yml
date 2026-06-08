@@ -17,10 +17,14 @@ body:
     id: reproduce
     attributes:
       label: Your settings (optional)
-      description: Box size and the features you had switched on, so I can recreate it.
+      description: >-
+        Box size and the features you had switched on, so I can recreate it.
+        Best of all, drag in your exported `.3mf` — it captures the exact model
+        and every setting, so I don't have to guess.
       placeholder: |
         Inside 120 x 80 x 35 mm, 3 mm walls.
         Lid: Press fit, ribs on four sides. Everything else default.
+        (Even better: attach the .3mf so I have the exact setup.)
     validations:
       required: false
   - type: dropdown
