@@ -2,6 +2,8 @@
 
 **From bare-bones to fully loaded.** You choose every feature — and the size.
 
+**v0.2 · 2026-06-14** — see what's new in the [changelog](CHANGELOG.md).
+
 > 🐛 **Found a bug? Want a feature? Have a question?**
 > File it on the **[Issues page →](https://github.com/rysiuwroc/ele-box/issues)** —
 > pick a type (bug / feature / question) and it gets sorted automatically. That's the
