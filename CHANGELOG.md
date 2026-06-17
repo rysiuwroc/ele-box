@@ -4,6 +4,8 @@ All notable changes to Ele-Box.
 
 ## v0.3 — 2026-06-17
 
+Everything in this release was 3D printed and hand-tested.
+
 ### Lid closures
 - **New — Tongue and groove.** A no-screws friction lid: the lip plugs into a groove in
   the rim and you pull straight up to open, with nothing that flexes and cracks. The
