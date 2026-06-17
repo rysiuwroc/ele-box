@@ -2,7 +2,7 @@
 
 **From bare-bones to fully loaded.** You choose every feature — and the size.
 
-**v0.2 · 2026-06-14** — see what's new in the [changelog](CHANGELOG.md).
+**v0.3 · 2026-06-17** — see what's new in the [changelog](CHANGELOG.md).
 
 > 🐛 **Found a bug? Want a feature? Have a question?**
 > File it on the **[Issues page →](https://github.com/rysiuwroc/ele-box/issues)** —
@@ -45,19 +45,20 @@ And how it comes out:
 
 ## Lid mounting
 
-Six ways to close it — Screws, Press fit, Snap lock, Removable snap lock, Glue, or a
-Plain plate — with the lid shaped as a **Cap** (sits over the rim) or **Inset**
-(drops flush into the opening).
+Five ways to close it — Screws, Tongue and groove, Cantilever clips, Glue, or a Plain
+plate — with the lid shaped as a **Cap** (sits over the rim) or **Inset** (drops flush
+into the opening).
 
 - **Screws** — base posts sized for M2, M2.5, M3, M4, M5, M6, 4-40, 6-32, 8-32 or a
-  custom size. Head recess socket/pan, flat countersunk, or none. Set post diameter,
-  inset and the rib that blends each post into the wall.
-- **Snap lock** latches all four sides; **Removable snap lock** latches only the
-  length sides so the lid pops back open. Tune catch height, reach, width and
-  position below the rim.
-- **Press fit** — grip ribs on none / length / width / four sides. Net grip is rib
-  depth minus fit clearance (about 0.25 mm per side by default): deepen for tighter,
-  raise clearance for looser.
+  custom size. Head recess socket/pan, flat countersunk, or none.
+- **Tongue and groove** — a no-screws friction lid: the lip plugs into a groove in the
+  rim and you pull straight up to open, with nothing that flexes and cracks. The groove
+  can grow **Inner** (sides stay flush) or **Outer** (the box widens at the top and the
+  lid wraps around the outside). The fit is dialled in at the default and tunable in
+  0.01 mm steps.
+- **Cantilever clips** — press the lid down to click it shut, pull straight up to open;
+  the catches hide in blind pockets in the wall. Flexing closure — for a guaranteed hold
+  use Screws.
 - **Glue / Plain plate** for the simplest builds.
 
 ## Openings
@@ -109,8 +110,9 @@ where the port is, and the port actually reaches the wall.
   ridge. Print the flat gasket ring in TPU (PLA/PETG stays too rigid to seal), or use
   it as a cutting template for rubber or foam.
 - **Rubber feet** — shallow recesses in the four bottom corners for stick-on feet.
-- **Lid text** — an embossed or engraved label with your own string, font, size,
-  position and rotation.
+- **Lid text** — an engraved label, or a flush 2-colour inlay (level with the lid top,
+  give it its own filament in the slicer), with your own string, font, size, position
+  and rotation.
 
 ## Make it your size
 

@@ -2,6 +2,33 @@
 
 All notable changes to Ele-Box.
 
+## v0.3 — 2026-06-17
+
+Everything in this release was 3D printed and hand-tested.
+
+### Lid closures
+- **New — Tongue and groove.** A no-screws friction lid: the lip plugs into a groove in
+  the rim and you pull straight up to open, with nothing that flexes and cracks. The
+  groove can grow **Inner** (sides stay flush) or **Outer** (the box widens at the top
+  and the lid wraps around the outside). The fit is print-validated at the default and
+  tunable in 0.01 mm steps if your printer runs tight or loose.
+- **New — Cantilever clips.** Press the lid down to click it shut, pull straight up to
+  open; the catches hide in blind pockets in the wall (no visible holes when the wall is
+  thick enough).
+- **Removed Press fit, Snap lock and Removable snap lock.** The flexing ones cracked in
+  PLA and the lot was fiddly; Tongue and groove and Cantilever clips replace them, with
+  Screws still there for a guaranteed hold.
+
+### Lid text
+- **New — Flush inlay.** Besides engraved, the lid label can now be a separate part that
+  sits level with the lid top — neither raised nor sunk — so you can print it in its own
+  colour in the slicer. (The old Embossed mode is gone; it couldn't print clean on a lid
+  that flips for printing.)
+
+### Customizer
+- **One "Lid" section.** All the lid options are grouped together now — about ten dials
+  instead of thirty — with the rarely-touched internals moved to tidy defaults.
+
 ## v0.2 — 2026-06-14
 
 ### Standoffs
