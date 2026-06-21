@@ -2,7 +2,7 @@
 
 **From bare-bones to fully loaded.** You choose every feature — and the size.
 
-**v0.3 · 2026-06-17** — see what's new in the [changelog](CHANGELOG.md).
+**v0.4 · 2026-06-21** — see what's new in the [changelog](CHANGELOG.md).
 
 > 🐛 **Found a bug? Want a feature? Have a question?**
 > File it on the **[Issues page →](https://github.com/rysiuwroc/ele-box/issues)** —
@@ -93,9 +93,10 @@ where the port is, and the port actually reaches the wall.
 
 ## Onboard hardware
 
-- **Battery holder** — snap-in cradles that self-size to AAA, AA, 14500, 18650, C or
-  D cells, 1–4 across. End clips grip just past center; a 9V block gets an open-top
-  well for the snap clip and leads.
+- **Battery holder** — snap-in holders that self-size to AAA, AA, 14500, 18650, C or
+  D cells, 1–4 across. Round cells snap into a channel with an open centre (pinch to
+  pop the cell out), and a standard slide-in spring contact at each end grips and
+  powers the cell; a 9V block gets an open-top well for the snap clip and leads.
 - **Display window** — a rounded screen cutout with an optional inner ledge so an
   OLED/LCD drops in from inside and rests on the step.
 - **LED indicators** — 3 mm / 5 mm / custom holes in a row, 1–8 across, with an
