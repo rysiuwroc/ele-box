@@ -4,6 +4,8 @@ All notable changes to Ele-Box.
 
 ## v0.4 — 2026-06-21
 
+Everything in this release was 3D printed and hand-tested.
+
 ### Battery holder
 - **Reworked round-cell holder.** Round cells (AAA / AA / 14500 / 18650 / C / D) now
   snap into a channel with an open centre — pinch the cell and it pops back out — and a
