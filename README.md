@@ -2,7 +2,7 @@
 
 **From bare-bones to fully loaded.** You choose every feature — and the size.
 
-**v0.4 · 2026-06-21** — see what's new in the [changelog](CHANGELOG.md).
+**v0.5 · 2026-06-24** — see what's new in the [changelog](CHANGELOG.md).
 
 > 🐛 **Found a bug? Want a feature? Have a question?**
 > File it on the **[Issues page →](https://github.com/rysiuwroc/ele-box/issues)** —
