@@ -2,6 +2,23 @@
 
 All notable changes to Ele-Box.
 
+## v0.5 — 2026-06-24
+
+### MakerWorld
+- **Each part on its own plate.** On MakerWorld the box, lid, and (when you enable them)
+  the backplate and gasket now each land on their own build plate — packed from the first
+  plate with no gaps — so the customizer hands you the parts ready to print.
+
+### Lid
+- **Fixed: Inset lid + screws.** An Inset lid now sits flush on the screw posts: the posts
+  shorten by one lid thickness so the lid rests level instead of proud, and the
+  post-to-wall ribs stop below where the lid's lip drops in, so they no longer block it.
+
+### Customizer
+- **Slimmed.** Lip depth, fit clearance, the tongue-and-groove fit and direction, and the
+  cantilever clip count moved to sensible defaults to keep the panel short (still editable
+  in the source if you need them).
+
 ## v0.4 — 2026-06-21
 
 Everything in this release was 3D printed and hand-tested.
