@@ -2,7 +2,7 @@
 
 **From bare-bones to fully loaded.** You choose every feature — and the size.
 
-**v0.5 · 2026-06-24** — see what's new in the [changelog](CHANGELOG.md).
+**v0.6 · 2026-06-25** — see what's new in the [changelog](CHANGELOG.md).
 
 > 🐛 **Found a bug? Want a feature? Have a question?**
 > File it on the **[Issues page →](https://github.com/rysiuwroc/ele-box/issues)** —
@@ -112,8 +112,10 @@ where the port is, and the port actually reaches the wall.
   it as a cutting template for rubber or foam.
 - **Rubber feet** — shallow recesses in the four bottom corners for stick-on feet.
 - **Lid text** — an engraved label, or a flush 2-colour inlay (level with the lid top,
-  give it its own filament in the slicer), with your own string, font, size, position
-  and rotation.
+  printed in its own filament), with your own string, font, size, position and rotation,
+  plus bold / italic / underline / strikethrough.
+- **Lid logo** — add your own logo from an uploaded SVG or PNG, engraved or as a flush
+  2-colour inlay, with its own size, position and rotation.
 
 ## Make it your size
 
