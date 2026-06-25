@@ -2,6 +2,20 @@
 
 All notable changes to Ele-Box.
 
+## v0.6 — 2026-06-25
+
+### Lid logo
+- **New — your own logo on the lid.** Upload an SVG (crisp vector) or a PNG (the dark part
+  of the image becomes the logo), place it with its own size, position and rotation, and
+  have it either engraved or as a flush 2-colour inlay in its own filament.
+
+### Lid text
+- **Fixed — the flush colour no longer disappears.** The flush inlay (text and logo) now
+  comes out as a real second colour on MakerWorld and in the slicer; before, it merged into
+  the lid and printed as one colour.
+- **Style controls.** Bold, italic, underline and strikethrough, plus a searchable font
+  picker — italic works on any font, even ones with no italic style of their own.
+
 ## v0.5 — 2026-06-24
 
 ### MakerWorld
