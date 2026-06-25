@@ -14,6 +14,12 @@ All notable changes to Ele-Box.
   shorten by one lid thickness so the lid rests level instead of proud, and the
   post-to-wall ribs stop below where the lid's lip drops in, so they no longer block it.
 
+### Lid text
+- **Flush inlay previews true.** A Flush-inlay label now shows level with the lid top and
+  in colour in the All / Assembled preview — so it reads as the flush 2-colour fill it is,
+  not a plain engraved recess (and the preview no longer bleeds). On MakerWorld it comes
+  out on the lid's plate next to the lid, ready to give its own filament.
+
 ### Customizer
 - **Slimmed.** Lip depth, fit clearance, the tongue-and-groove fit and direction, and the
   cantilever clip count moved to sensible defaults to keep the panel short.
