@@ -16,8 +16,7 @@ All notable changes to Ele-Box.
 
 ### Customizer
 - **Slimmed.** Lip depth, fit clearance, the tongue-and-groove fit and direction, and the
-  cantilever clip count moved to sensible defaults to keep the panel short (still editable
-  in the source if you need them).
+  cantilever clip count moved to sensible defaults to keep the panel short.
 
 ## v0.4 — 2026-06-21
 
