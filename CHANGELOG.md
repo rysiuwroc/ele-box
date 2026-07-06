@@ -2,6 +2,20 @@
 
 All notable changes to Ele-Box.
 
+## v0.7 — 2026-07-06
+
+### Lid fit
+- **New — one Loose / Snug / Tight fit dial.** Set how tightly the lid grips with a single
+  `lid_fit` choice (default Snug) instead of editing a raw clearance number. It sets the
+  lip-to-wall gap to 0.30 / 0.25 / 0.20 mm per side and drives every lidded style — Cap,
+  Inset, Tongue-and-groove and Cantilever clips. Won't seat? Go one looser; too slack? One
+  tighter.
+
+### Customizer
+- **Groove direction back on the panel.** For a Tongue-and-groove lid, the `tg_groove_side`
+  choice — `Inner` (sides stay flush) or `Outer` (the box widens at the rim and the lid wraps
+  the outside) — is a Customizer dropdown again, so you can switch it without editing the file.
+
 ## v0.6 — 2026-06-25
 
 ### Lid logo

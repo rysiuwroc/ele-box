@@ -2,7 +2,7 @@
 
 **From bare-bones to fully loaded.** You choose every feature — and the size.
 
-**v0.6 · 2026-06-25** — see what's new in the [changelog](CHANGELOG.md).
+**v0.7 · 2026-07-06** — see what's new in the [changelog](CHANGELOG.md).
 
 > 🐛 **Found a bug? Want a feature? Have a question?**
 > File it on the **[Issues page →](https://github.com/rysiuwroc/ele-box/issues)** —
@@ -40,8 +40,8 @@ And how it comes out:
 - Inside length / width 20–300 mm, inside height 10–180 mm.
 - Wall, floor and lid thickness 1.2–8 mm each.
 - Outer corner radius 0–30 mm (0 = sharp corners).
-- Fit clearance between base and lid, plus a plug-in lip with tunable depth and wall
-  thickness.
+- A Loose / Snug / Tight lid-fit dial for how tightly the lid grips, plus a plug-in lip
+  between base and lid.
 
 ## Lid mounting
 
@@ -54,8 +54,8 @@ into the opening).
 - **Tongue and groove** — a no-screws friction lid: the lip plugs into a groove in the
   rim and you pull straight up to open, with nothing that flexes and cracks. The groove
   can grow **Inner** (sides stay flush) or **Outer** (the box widens at the top and the
-  lid wraps around the outside). The fit is dialled in at the default and tunable in
-  0.01 mm steps.
+  lid wraps around the outside). The Loose / Snug / Tight lid-fit dial sets the base fit,
+  with a hidden 0.01 mm trim on top for fine tuning.
 - **Cantilever clips** — press the lid down to click it shut, pull straight up to open;
   the catches hide in blind pockets in the wall. Flexing closure — for a guaranteed hold
   use Screws.
